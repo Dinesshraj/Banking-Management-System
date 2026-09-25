@@ -78,7 +78,7 @@ public class bankingManagementSystem {
                         break;
 
                     case 7:
-                        System.out.println("Thank you for using Banking Management System!!!    Visit again!!!");
+                        System.out.println("Thank you for using Banking Management System!    Visit again!!!");
                         break;
 
                     default:
